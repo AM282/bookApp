@@ -1,0 +1,529 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Anju Maurya",
+      "username": "Anju",
+      "email": "anju@gmail.com",
+      "profileImg": "https://image.freepik.com/free-photo/business-woman-is-sitting-her-office-she-is-manager-advisor-her-employers_51578-59.jpg",
+      "DOB": "25 July 1998",
+      "gender": "Female",
+      "interest": [
+        "Fiction",
+        "movies",
+        "Doraemon"
+      ]
+    }
+  ],
+  "favourites": [
+    {
+      "title": "Effective Java",
+      "authors": [
+        "Joshua Bloch"
+      ],
+      "publisher": "Pearson Education India",
+      "publishedDate": "2016",
+      "description": "This highly anticipated new edition of the classic, Jolt Award-winning work has been thoroughly updated to cover Java SE 5 and Java SE 6 features introduced since the first edition. Bloch explores new design patterns and language idioms, showing you how to make the most of features ranging from generics to enums, annotations to autoboxing.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9789332586017"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "9332586012"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 264,
+      "printType": "BOOK",
+      "averageRating": 5,
+      "ratingsCount": 5,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=BREwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=BREwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=BREwDwAAQBAJ&printsec=frontcover&dq=java&hl=&cd=1&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=BREwDwAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BREwDwAAQBAJ",
+      "id": 1
+    },
+    {
+      "title": "Introduction to Programming Using Java",
+      "authors": [
+        "David Eck"
+      ],
+      "publisher": "Orange Grove Text Plus",
+      "publishedDate": "2009-09-01",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "1616100478"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781616100476"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 690,
+      "printType": "BOOK",
+      "categories": [
+        "Computers"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=pxGrMwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=pxGrMwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=pxGrMwEACAAJ&dq=java&hl=&cd=2&source=gbs_api",
+      "infoLink": "http://books.google.co.in/books?id=pxGrMwEACAAJ&dq=java&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Programming_Using_Java.html?hl=&id=pxGrMwEACAAJ",
+      "id": 2
+    },
+    {
+      "title": "Learning Java",
+      "subtitle": "An Introduction to Real-World Programming with Java",
+      "authors": [
+        "Marc Loy",
+        "Patrick Niemeyer",
+        "Daniel Leuck"
+      ],
+      "publisher": "O'Reilly Media",
+      "publishedDate": "2020-03-30",
+      "description": "If you’re new to Java—or new to programming—this best-selling book will guide you through the language features and APIs of Java 11. With fun, compelling, and realistic examples, authors Marc Loy, Patrick Niemeyer, and Daniel Leuck introduce you to Java fundamentals—including its class libraries, programming techniques, and idioms—with an eye toward building real applications. You’ll learn powerful new ways to manage resources and exceptions in your applications—along with core language features included in recent Java versions. Develop with Java, using the compiler, interpreter, and other tools Explore Java’s built-in thread facilities and concurrency package Learn text processing and the powerful regular expressions API Write advanced networked or web-based applications and services",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781492056249"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1492056243"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 518,
+      "printType": "BOOK",
+      "categories": [
+        "Computers"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=tsjZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=tsjZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=tsjZDwAAQBAJ&pg=PA484&dq=java&hl=&cd=3&source=gbs_api",
+      "infoLink": "http://books.google.co.in/books?id=tsjZDwAAQBAJ&dq=java&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Learning_Java.html?hl=&id=tsjZDwAAQBAJ",
+      "id": 3
+    }
+  ],
+  "author": [
+    {
+      "name": "Chinua Achebe",
+      "country": "Nigeria",
+      "imgaddress": "https://www.theparisreview.org/il/e4b8f842fe/medium/Chinua-Achebe.jpg",
+      "id": 1,
+      "url": "https://en.wikipedia.org/wiki/Chinua_Achebe",
+      "description": [
+        "Chinua Achebe, in full Albert Chinualumogu Achebe, (born November 16, 1930, Ogidi, Nigeria—died March 21, 2013, Boston, Massachusetts, U.S.), Nigerian novelist acclaimed for his unsentimental depictions of the social and psychological disorientation accompanying the imposition of Western customs and values upon traditional African society. His particular concern was with emergent Africa at its moments of crisis; his novels range in subject matter from the first contact of an African village with the white man to the educated African’s attempt to create a firm moral order out of the changing values in a large city.",
+        "Achebe grew up in the Igbo (Ibo) town of Ogidi, Nigeria. After studying English and literature at University College (now the University of Ibadan), Achebe taught for a short time before joining the staff of the Nigerian Broadcasting Corporation in Lagos, where he served as director of external broadcasting in 1961–66. In 1967 he cofounded a publishing company at Enugu with the poet Christopher Okigbo, who died shortly thereafter in the Nigerian civil war for Biafran independence, which Achebe openly supported. In 1969 Achebe toured the United States with fellow writers Gabriel Okara and Cyprian Ekwensi, lecturing at universities. Upon his return to Nigeria he was appointed research fellow at the University of Nigeria and became professor of English, a position he held from 1976 until 1981 (professor emeritus from 1985). He was director (from 1970) of two Nigerian publishers, Heinemann Educational Books Ltd. and Nwankwo-Ifejika Ltd. After an automobile accident in Nigeria in 1990 that left him partially paralyzed, he moved to the United States, where he taught at Bard College in Annandale-on-Hudson, New York. In 2009 Achebe left Bard to join the faculty of Brown University in Providence, Rhode Island."
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1986",
+      "dob": "16 November 1930",
+      "works": [
+        "Things Fall Apart",
+        "No Longer at Ease",
+        "Arrow of God",
+        "A Man of the People",
+        "Anthills of the Savannah"
+      ]
+    },
+    {
+      "name": "Hans Christian Andersen",
+      "country": "Denmark",
+      "imgaddress": "https://cdn.britannica.com/47/95847-050-18A6A53B/Hans-Christian-Andersen-oil-canvas-Carl-Heinrich.jpg",
+      "id": 2,
+      "url": "https://en.wikipedia.org/wiki/Hans_Christian_Andersen",
+      "description": [
+        "Hans Christian Andersen, (born April 2, 1805, Odense, near Copenhagen, Denmark—died August 4, 1875, Copenhagen), Danish master of the literary fairy tale whose stories achieved wide renown. He is also the author of plays, novels, poems, travel books, and several autobiographies. While many of those works are almost unknown outside Denmark, his fairy tales are among the most frequently translated works in all of literary history.",
+        "The next year Andersen produced what is considered his first important literary work, Fodrejse fra Holmens Kanal til Østpynten af Amager i aarene 1828 og 1829 (1829; “A Walk from Holmen’s Canal to the East Point of the Island of Amager in the Years 1828 and 1829”), a fantastic tale in the style of the German Romantic writer E.T.A. Hoffmann. This self-published work was an immediate success. He then turned to playwriting. After some unsuccessful attempts, he achieved recognition for Mulatten (1840; “The Mulatto”), a play portraying the evils of slavery. The theatre, however, was not to become his field, and for a long time Andersen was regarded primarily as a novelist. Most of his novels are autobiographical; among the best-known are Improvisatoren (1835; The Improvisatore), O.T. (1836; OT: A Danish Romance), and Kun en spillemand (1837; Only a Fiddler)."
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1884",
+      "dob": "2 April 1805",
+      "works": [
+        "The Little Mermaid",
+        "The Ugly Duckling",
+        "The Emperor's New Clothes",
+        "The Little Match Girl"
+      ]
+    },
+    {
+      "name": "Dante Alighieri",
+      "country": "Italy",
+      "imgaddress": "//www.tornabuoni1.com/wp-content/uploads/Dante_wp-1.jpg",
+      "id": 3,
+      "description": [
+        "Dante, in full Dante Alighieri, (born c. May 21–June 20, 1265, Florence [Italy]—died September 13/14, 1321, Ravenna), Italian poet, prose writer, literary theorist, moral philosopher, and political thinker. He is best known for the monumental epic poem La commedia, later named La divina commedia ",
+        "Dante’s Divine Comedy, a landmark in Italian literature and among the greatest works of all medieval European literature, is a profound Christian vision of humankind’s temporal and eternal destiny. On its most personal level, it draws on Dante’s own experience of exile from his native city of Florence. On its most comprehensive level, it may be read as an allegory, taking the form of a journey through hell, purgatory, and paradise. The poem amazes by its array of learning, its penetrating and comprehensive analysis of contemporary problems, and its inventiveness of language and imagery. By choosing to write his poem in the Italian vernacular rather than in Latin, Dante decisively influenced the course of literary development. (He primarily used the Tuscan dialect, which would become standard literary Italian, but his vivid vocabulary ranged widely over many dialects and languages.) Not only did he lend a voice to the emerging lay culture of his own country, but Italian became the literary language in western Europe for several centuries.        "
+      ],
+      "url": "https://en.wikipedia.org/wiki/Dante_Alighieri",
+      "gender": "male",
+      "dod": "15 Dec  1934",
+      "dob": "12 Deb 1912",
+      "works": [
+        "Divine Comedy"
+      ]
+    },
+    {
+      "name": "Jane Austen",
+      "country": "United Kingdom",
+      "imgaddress": "https://cdn.britannica.com/12/172012-050-A9AFF8AF/Jane-Austen-Cassandra-engraving-portrait-1810.jpg",
+      "id": 4,
+      "url": "https://en.wikipedia.org/wiki/Jane_Austen",
+      "description": [
+        "Jane Austen, (born December 16, 1775, Steventon, Hampshire, England—died July 18, 1817, Winchester, Hampshire), English writer who first gave the novel its distinctly modern character through her treatment of ordinary people in everyday life. She published four novels during her lifetime: Sense and Sensibility (1811), Pride and Prejudice (1813), Mansfield Park (1814), and Emma (1815). In these and in Persuasion and Northanger Abbey (published together posthumously, 1817), she vividly depicted English middle-class life during the early 19th century. Her novels defined the era’s novel of manners, but they also became timeless classics that remained critical and popular successes for over two centuries after her death.",
+        "Jane Austen was born in the Hampshire village of Steventon, where her father, the Reverend George Austen, was rector. She was the second daughter and seventh child in a family of eight—six boys and two girls. Her closest companion throughout her life was her elder sister, Cassandra; neither Jane nor Cassandra married. Their father was a scholar who encouraged the love of learning in his children. His wife, Cassandra (née Leigh), was a woman of ready wit, famed for her impromptu verses and stories. The great family amusement was acting."
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1832",
+      "dob": "16 December 1775",
+      "works": [
+        "Sense and Sensibility 1811",
+        "Pride and Prejudice 1813",
+        "Mansfield Park 1814",
+        "Emma 1815",
+        "Persuasion 1817"
+      ]
+    },
+    {
+      "name": "Samuel Beckett",
+      "country": "Republic of Ireland",
+      "imgaddress": "https://upload.wikimedia.org/wikipedia/commons/8/88/Samuel_Beckett%2C_Pic%2C_1_%28cropped%29.jpg",
+      "id": 5,
+      "url": "https://en.wikipedia.org/wiki/Samuel_Beckett",
+      "description": [
+        "Samuel Beckett, in full Samuel Barclay Beckett, (born April 13?, 1906, Foxrock, County Dublin, Ireland—died December 22, 1989, Paris, France), author, critic, and playwright, winner of the Nobel Prize for Literature in 1969. He wrote in both French and English and is perhaps best known for his plays, especially En attendant Godot (1952; Waiting for Godot).",
+        "From 1923 to 1927, he studied Romance languages at Trinity College, Dublin, where he received his bachelor’s degree. After a brief spell of teaching in Belfast, he became a reader in English at the École Normale Supérieure in Paris in 1928. There he met the self-exiled Irish writer James Joyce, the author of the controversial and seminally modern novel Ulysses, and joined his circle. Contrary to often-repeated reports, however, he never served as Joyce’s secretary. He returned to Ireland in 1930 to take up a post as lecturer in French at Trinity College, but after only four terms he resigned, in December 1931, and embarked upon a period of restless travel in London, France, Germany, and Italy. In 1937 Beckett decided to settle in Paris. (This period of Beckett’s life is vividly depicted in letters he wrote between 1929 and 1940, a wide-ranging selection of which were first published in 2009.)"
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1934",
+      "dob": "13 April 1906",
+      "works": [
+        "Murphy",
+        "Malone Dies",
+        "The Unnamable",
+        "Waiting for Godot",
+        "Endgame",
+        "Krapp's Last Tape",
+        "How It Is",
+        "Happy Days"
+      ]
+    },
+    {
+      "name": "Giovanni Boccaccio",
+      "country": "Italy",
+      "imgaddress": "https://i.pinimg.com/originals/f8/76/4c/f8764cd2beeaa81e4fe2c9e206f639ec.jpg",
+      "id": 6,
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Boccaccio",
+      "description": [
+        "Giovanni Boccaccio, (born 1313, Paris, Fr.—died Dec. 21, 1375, Certaldo, Tuscany [Italy]), Italian poet and scholar, best remembered as the author of the earthy tales in the Decameron. With Petrarch he laid the foundations for the humanism of the Renaissance and raised vernacular literature to the level and status of the classics of antiquity.      ",
+        "Boccaccio was the son of a Tuscan merchant, Boccaccio di Chellino (called Boccaccino), and a mother who was probably French. He passed his early childhood rather unhappily in Florence. His father had no sympathy for Boccaccio’s literary inclinations and sent him, not later than 1328, to Naples to learn business, probably in an office of the Bardi, who dominated the court of Naples by means of their loans. In this milieu Boccaccio experienced the aristocracy of the commercial world as well as all that survived of the splendours of courtly chivalry and feudalism. He also studied canon law and mixed with the learned men of the court and the friends and admirers of Petrarch, through whom he came to know the work of Petrarch himself."
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1364",
+      "dob": "16 June 1313",
+      "works": [
+        "Decameron"
+      ]
+    },
+    {
+      "name": "Jorge Luis Borges",
+      "country": "Argentina",
+      "imgaddress": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jorge_Luis_Borges.jpg",
+      "id": 7,
+      "url": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges",
+      "description": [
+        "Albert Camus, (born November 7, 1913, Mondovi, Algeria—died January 4, 1960, near Sens, France), French novelist, essayist, and playwright, best known for such novels as L’Étranger (1942; The Stranger), La Peste (1947; The Plague), and La Chute (1956; The Fall) and for his work in leftist causes. He received the 1957 Nobel Prize for Literature.      ",
+        "Less than a year after Camus was born, his father, an impoverished worker, was killed in World War I during the First Battle of the Marne. His mother, of Spanish descent, did housework to support her family. Camus and his elder brother Lucien moved with their mother to a working-class district of Algiers, where all three lived, together with the maternal grandmother and a paralyzed uncle, in a two-room apartment. Camus’s first published collection of essays, L’Envers et l’endroit (1937; “The Wrong Side and the Right Side”), describes the physical setting of these early years and includes portraits of his mother, grandmother, and uncle. A second collection of essays, Noces (1938; “Nuptials”), contains intensely lyrical meditations on the Algerian countryside and presents natural beauty as a form of wealth that even the very poor can enjoy. Both collections contrast the fragile mortality of human beings with the enduring nature of the physical world."
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1946",
+      "dob": "24 August 1899",
+      "works": [
+        "A Universal History of Infamy (1935)",
+        "Ficciones (1944)",
+        "El Aleph (1949)",
+        "Labyrinths (1962)",
+        "The Book of Sand (1975)"
+      ]
+    },
+    {
+      "name": "Albert Camus",
+      "country": "Algeria, French Empire",
+      "imgaddress": "https://cdn.britannica.com/07/21107-004-8BBC18D8/Albert-Camus-photograph-Henri-Cartier-Bresson.jpg",
+      "id": 8,
+      "url": "https://en.wikipedia.org/wiki/Albert_Camus",
+      "description": [
+        "",
+        ""
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1967",
+      "dob": "7 November 1913",
+      "works": [
+        "The Stranger / The Outsider",
+        "The Myth of Sisyphus",
+        "The Rebel",
+        "The Plague"
+      ]
+    },
+    {
+      "name": "Paul Celan",
+      "country": "Romania, France",
+      "imgaddress": "https://i.pinimg.com/originals/bc/5a/58/bc5a58215e37ff2f827544dff18b3c3e.jpg",
+      "id": 9,
+      "url": "https://en.wikipedia.org/wiki/Paul_Celan",
+      "description": [
+        "Paul Celan was born Paul Antschel in Czernovitz, Romania, to a German-speaking Jewish family. His surname was later spelled Ancel, and he eventually adopted the anagram Celan as his pen name. In 1938 Celan went to Paris to study medicine, but returned to Romania before the outbreak of World War II. During the war Celan worked in a forced labor camp for 18 months; his parents were deported to a Nazi concentration camp. His father most likely died of typhus and his mother was shot after being unable to work. After escaping the labor camp, Celan lived in Bucharest and Vienna before settling in Paris. Celan was familiar with at least six languages, and fluent in Russian, French, and Romanian. In Paris, he taught German language and literature at L’École Normale Supérieure and earned a significant portion of his income as a translator, translating a wide range of work, from Robert Frost, Marianne Moore, and Emily Dickinson to Arthur Rimbaud, Antonin Artaud, and Charles Baudelaire. His own work has been translated into English numerous times and by several noted poets and translators including Michael Hamburger, Rosmarie Waldrop, Heather McHugh, John Felstiner, and Pierre Joris.",
+        "Though he lived in France and was influenced by the French surrealists, he wrote his own poetry in German. His first collection of poems, Sand from the Urns, was published in Vienna in 1948; his second collection, Poppy and Memory (Mohn und Gedaechtnis, 1952), brought him critical acclaim. Katherine Washburn, his translator, noted in her introduction to Last Poems (1986): “The title of this book [Poppy and Memory] pointed with a fine vividness to the central predicament of Celan’s poetry—the unstable and dangerous union between Paul Celan, caught early in that sensual music of the Surrealists, pure poet of the intoxicating line, and Paul Ancel, heir and hostage to the most lacerating of human memories.”"
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1978",
+      "dob": "23 November 1920",
+      "works": [
+        "Todesfuge"
+      ]
+    },
+    {
+      "name": "Miguel de Cervantes",
+      "country": "Spain",
+      "imgaddress": "https://www.onthisday.com/images/people/miguel-de-cervantes-saavedra-medium.jpg",
+      "id": 10,
+      "url": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
+      "description": [
+        "Miguel de Cervantes, in full Miguel de Cervantes Saavedra, (born September 29?, 1547, Alcalá de Henares, Spain—died April 22, 1616, Madrid), Spanish novelist, playwright, and poet, the creator of Don Quixote (1605, 1615) and the most important and celebrated figure in Spanish literature. His novel Don Quixote has been translated, in full or in part, into more than 60 languages. Editions continue regularly to be printed, and critical discussion of the work has proceeded unabated since the 18th century. At the same time, owing to their widespread representation in art, drama, and film, the figures of Don Quixote and Sancho Panza are probably familiar visually to more people than any other imaginary characters in world literature. Cervantes was a great experimenter. He tried his hand in all the major literary genres save the epic. He was a notable short-story writer, and a few of those in his collection of Novelas exemplares (1613; Exemplary Stories) attain a level close to that of Don Quixote, on a miniature scale.      ",
+        "Cervantes was born some 20 miles (32 km) from Madrid, probably on September 29 (the day of San Miguel). He was certainly baptized on October 9. He was the fourth of seven children in a family whose origins were of the minor gentry but which had come down in the world. His father was a barber-surgeon who set bones, performed bloodlettings, and attended lesser medical needs. The family moved from town to town, and little is known of Cervantes’s early education. The supposition, based on a passage in one of the Exemplary Stories, that he studied for a time under the Jesuits, though not unlikely, remains conjectural. Unlike most Spanish writers of his time, including some of humble origin, he apparently did not go to a university. What is certain is that at some stage he became an avid reader of books. The head of a municipal school in Madrid, a man with Erasmist intellectual leanings named Juan López de Hoyos, refers to a Miguel de Cervantes as his “beloved pupil.” This was in 1569, when the future author was 21, so—if this was the same Cervantes—he must either have been a pupil-teacher at the school or have studied earlier under López de Hoyos. His first published poem, on the death of Philip II’s young queen, Elizabeth of Valois, appeared at this time."
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1625",
+      "dob": "29 September 1547",
+      "works": [
+        "Don Quixote",
+        "Entremeses",
+        "Novelas ejemplares"
+      ]
+    },
+    {
+      "name": "Geoffrey Chaucer",
+      "country": "England",
+      "imgaddress": "https://www.biography.com/.image/t_share/MTE5NDg0MDU0OTIxMzgxMzkx/geoffrey-chaucer-9245691-1-402.jpg",
+      "id": 11,
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_Chaucer",
+      "description": [
+        "Geoffrey Chaucer, (born c. 1342/43, London?, England—died October 25, 1400, London), the outstanding English poet before Shakespeare and “the first finder of our language.” His The Canterbury Tales ranks as one of the greatest poetic works in English. He also contributed importantly in the second half of the 14th century to the management of public affairs as courtier, diplomat, and civil servant. In that career he was trusted and aided by three successive kings—Edward III, Richard II, and Henry IV. But it is his avocation—the writing of poetry—for which he is remembered.",
+        "Perhaps the chief characteristics of Chaucer’s works are their variety in subject matter, genre, tone, and style and in the complexities presented concerning the human pursuit of a sensible existence. Yet his writings also consistently reflect an all-pervasive humour combined with serious and tolerant consideration of important philosophical questions. From his writings Chaucer emerges as poet of love, both earthly and divine, whose presentations range from lustful cuckoldry to spiritual union with God. Thereby, they regularly lead the reader to speculation about man’s relation both to his fellows and to his Maker, while simultaneously providing delightfully entertaining views of the frailties and follies, as well as the nobility, of mankind."
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1912",
+      "dob": "24 nov 1989",
+      "works": [
+        "The Parlement of Foules",
+        "Troilus and Criseyde",
+        "The Canterbury Tales"
+      ]
+    },
+    {
+      "name": "Anton Chekhov",
+      "country": "Russia",
+      "imgaddress": "https://www.biography.com/.image/t_share/MTE5NTU2MzE2MTgxNjYxMTk1/anton-chekhov-9245947-1-402.jpg",
+      "id": 12,
+      "url": "https://en.wikipedia.org/wiki/Anton_Chekhov",
+      "description": [
+        "Anton Chekhov, in full Anton Pavlovich Chekhov, (born January 29 [January 17, Old Style], 1860, Taganrog, Russia—died July 14/15 [July 1/2], 1904, Badenweiler, Germany), Russian playwright and master of the modern short story. He was a literary artist of laconic precision who probed below the surface of life, laying bare the secret motives of his characters. Chekhov’s best plays and short stories lack complex plots and neat solutions. Concentrating on apparent trivialities, they create a special kind of atmosphere, sometimes termed haunting or lyrical. Chekhov described the Russian life of his time using a deceptively simple technique devoid of obtrusive literary devices, and he is regarded as the outstanding representative of the late 19th-century Russian realist school.",
+        "Chekhov’s father was a struggling grocer and pious martinet who had been born a serf. He compelled his son to serve in his shop, also conscripting him into a church choir, which he himself conducted. Despite the kindness of his mother, childhood remained a painful memory to Chekhov, although it later proved to be a vivid and absorbing experience that he often invoked in his works. After briefly attending a local school for Greek boys, Chekhov entered the town gimnaziya (high school), where he remained for 10 years. There he received the best standard education then available—thorough but unimaginative and based on the Greek and Latin classics. During his last three years at school Chekhov lived alone and supported himself by coaching younger boys; his father, having gone bankrupt, had moved with the rest of his family to Moscow to make a fresh start."
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1934",
+      "dob": "29 January 1860",
+      "works": [
+        "Uncle Vanya",
+        "The Cherry Orchard",
+        "Three Sisters"
+      ]
+    },
+    {
+      "name": "Joseph Conrad",
+      "country": "United Kingdom",
+      "imgaddress": "https://upload.wikimedia.org/wikipedia/commons/0/07/Joseph_Conrad.PNG",
+      "id": 13,
+      "url": "https://en.wikipedia.org/wiki/Joseph_Conrad",
+      "description": [
+        "Joseph Conrad, original name Józef Teodor Konrad Korzeniowski, (born December 3, 1857, Berdichev, Ukraine, Russian Empire [now Berdychiv, Ukraine]—died August 3, 1924, Canterbury, Kent, England), English novelist and short-story writer of Polish descent, whose works include the novels Lord Jim (1900), Nostromo (1904), and The Secret Agent (1907) and the short story “Heart of Darkness” (1902). During his lifetime Conrad was admired for the richness of his prose and his renderings of dangerous life at sea and in exotic places. But his initial reputation as a masterful teller of colourful adventures of the sea masked his fascination with the individual when faced with nature’s invariable unconcern, man’s frequent malevolence, and his inner battles with good and evil. To Conrad, the sea meant above all the tragedy of loneliness. A writer of complex skill and striking insight, but above all of an intensely personal vision, he has been increasingly regarded as one of the greatest English novelists.",
+        "Conrad’s father, Apollo Nalęcz Korzeniowski, a poet and an ardent Polish patriot, was one of the organizers of the committee that went on in 1863 to direct the Polish insurrection against Russian rule. He was arrested in late 1861 and was sent into exile at Vologda in northern Russia. His wife and four-year-old son followed him there, and the harsh climate hastened his wife’s death from tuberculosis in 1865. In A Personal Record Conrad relates that his first introduction to the English language was at the age of eight, when his father was translating the works of Shakespeare and Victor Hugo in order to support the household. In those solitary years with his father he read the works of Sir Walter Scott, James Fenimore Cooper, Charles Dickens, and William Makepeace Thackeray in Polish and French. Apollo was ill with tuberculosis and died in Kraków in 1869. Responsibility for the boy was assumed by his maternal uncle, Tadeusz Bobrowski, a lawyer, who provided his nephew with advice, admonition, financial help, and love. He sent Conrad to school at Kraków and then to Switzerland, but the boy was bored by school and yearned to go to sea. In 1874 Conrad left for Marseille with the intention of going to sea."
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1934",
+      "dob": " 3 December 1857",
+      "works": [
+        "Lord Jim",
+        "Nostromo",
+        "The Secret Agent",
+        "Heart of Darkness"
+      ]
+    },
+    {
+      "name": "Charles Dickens",
+      "country": "United Kingdom",
+      "imgaddress": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg",
+      "id": 14,
+      "url": "https://en.wikipedia.org/wiki/Charles_Dickens",
+      "description": [
+        "Charles Dickens was a British novelist, journalist, editor, illustrator and social commentator who wrote such beloved classic novels as Oliver Twist, A Christmas Carol, Nicholas Nickleby, David Copperfield, A Tale of Two Cities and Great Expectations.   Dickens is remembered as one of the most important and influential writers of the 19th century. Among his accomplishments, he has been lauded for providing a stark portrait of the Victorian-era underclass, helping to bring about social change.",
+        "Dickens was born Charles John Huffam Dickens on February 7, 1812, in Portsmouth, on the southern coast of England. The famed British author was the second of eight children. His father, John Dickens, was a naval clerk who dreamed of striking it rich. Charles' mother, Elizabeth Barrow, aspired to be a teacher and school director. Despite his parents’ best efforts, the family remained poor. Nevertheless, they were happy in the early days. In 1816, they moved to Chatham, Kent, where young Dickens and his siblings were free to roam the countryside and explore the old castle at Rochester.         "
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1900",
+      "dob": "7 February 1812",
+      "works": [
+        "Pickwick Papers",
+        "Oliver Twist",
+        "A Christmas Carol",
+        "David Copperfield",
+        "Bleak House",
+        "Great Expectations"
+      ]
+    },
+    {
+      "name": "Denis Diderot",
+      "country": "France",
+      "imgaddress": "https://www.famousbirthdays.com/faces/diderot-denis-image.jpg",
+      "id": 15,
+      "url": "https://en.wikipedia.org/wiki/Denis_Diderot",
+      "description": [
+        "Diderot was the son of a widely respected master cutler. He was tonsured in 1726, though he did not in fact enter the church, and was first educated by the Jesuits at Langres. From 1729 to 1732 he studied in Paris at the Collège d’Harcourt or at the Lycée Louis-le-Grand or possibly at both these institutions, and he was awarded the degree of master of arts in the University of Paris on September 2, 1732. He then studied law as an articled clerk in the office of Clément de Ris but was more interested in languages, literature, philosophy, and higher mathematics.",
+        " Of his life in the period 1734 to 1744 comparatively little is known. He dropped an early ambition to enter the theatre and, instead, taught for a living, led a penurious existence as a publisher’s hack, and wrote sermons for missionaries at 50 écus each. At one time he seems to have entertained the idea of taking up an ecclesiastical career, but it is most unlikely that he entered a seminary. Yet his work testifies to his having gone through a religious crisis, and he progressed relatively slowly from Roman Catholicism to deism and then to atheism and philosophical materialism. That he led a disordered and bohemian existence at this time is made clear in his posthumously published novel, Le Neveu de Rameau (Rameau’s Nephew). He frequented the coffeehouses, particularly the Régence and the Procope, where he met the philosopher Jean-Jacques Rousseau in 1741 and established a friendship with him that was to last for 15 years, until it was broken by a quarrel.     In 1741 he also met Antoinette Champion, daughter of a linendraper, and in 1743 he married her—secretly, because of his father’s disapproval. The relationship was based on romantic love, but the marriage was not a happy one owing to incompatible interests. The bond held, however, partly through a common affection for their daughter, Angélique, sole survivor of three children, who was born in 1753 and whom Diderot eventually married to Albert de Vandeul, a man of some standing at Langres. Diderot lavished care over her education, and she eventually wrote a short account of his life and classified his manuscripts."
+      ],
+      "gender": "male",
+      "dod": "15 Dec  1784",
+      "dob": "5 October 1713",
+      "works": [
+        "Jacques the Fatalist",
+        "Rameau's Nephew",
+        "Paradox of the Actor",
+        "D'Alembert's Dream"
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "If You Want to Write",
+      "subtitle": "A Book about Art, Independence, and Spirit",
+      "author": "Siddharth Mourya",
+      "date": "20 feb 2021",
+      "img": "https://quotefancy.com/media/wallpaper/3840x2160/1837750-Samuel-Johnson-Quote-If-you-want-to-be-a-writer-then-write-Write.jpg",
+      "Description": [
+        "Due to the author’s local fame, I used to see this book in a store that sold pricey gifts and knick-knacks to upper-middle-class women. It looked a little more intellectual than the other merchandise—I myself only ever bought expensive chocolate, scented candles, and the occasional stuffed animal there—so when I found it recently in a Little Free Library I decided to investigate further. After reading the book, I am faced with the old dilemma: should the critic write a bad review? Isn’t it better to celebrate what it is good, true, and beautiful than to whine about what’s bad, false, and ugly? The question answers itself, and with another: how will we know what is bad, false, and ugly if no one bothers to point it out? The shade of the intrepid Ms. Ueland will have to forgive me, but I am about to point it out. She has for her consolation her book’s still being in print almost three decades after her own death.",
+        "I cannot imagine a more discouraging text than this 1938 tract “about Art, Independence and Spirit” for those who want to write but aren’t sure how to start. For Ueland, you must first become a great and simple soul before you put pen to paper.",
+        "Her hero is Tolstoy, and she quotes throughout the book his praise for clean-living and peasant simplicities. (She was also a feminist and the daughter of a suffragette, so her several sallies throughout this book against tyrannical husbands who prevent their wives from writing clash with the Tolstoy-worship, given that he nearly enslaved his own wife to his literary, spiritual, and sexual will—but perhaps these sordid details weren’t well-known at the time.) Though Tolstoy was an aristocrat, and Ueland herself apparently well-off, her favorite students are the poor ones, because they write without affectation about their humble lives. Her other hero besides Tolstoy is Blake, who advocated the divine energy that inspires all true art. He too lived simply and produced much poetry and art that at least seems simple. She quotes his aphorism several times: “Sooner strangle an infant in its cradle than nurse unacted desires.” (Which invites the objection: what if one desires to strangle an infant in its cradle? I despise top-down exercises of authority more than anyone, so it’s a shame that anarchist and libertarian ideals are often expressed so stupidly.) ",
+        "This is a dangerously servile way to think about other people, and a fatally arrogant way to think about oneself. Whereas to think both of one’s own writing and the writing of others as an art rather than an expression of self is much more usefully humbling, even as it is a legitimate goad to ambition. Tolstoy managed to write great novels—and some not-so-great stories and essays—while bearing a more troubled soul than Ueland seems to have known; and it’s hard, complex, intellectual work writing prose as superficially simple as Tolstoy’s."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Agent Sonya",
+      "subtitle": "Influencing the path of the Cold War",
+      "author": "Vandana CM",
+      "img": "https://theguywiththebookcom.files.wordpress.com/2018/12/fullsizerender.jpg?w=880&h=312&crop=1",
+      "date": "20 jan 2021",
+      "Description": [
+        "This is a dangerously servile way to think about other people, and a fatally arrogant way to think about oneself. Whereas to think both of one’s own writing and the writing of others as an art rather than an expression of self is much more usefully humbling, even as it is a legitimate goad to ambition. Tolstoy managed to write great novels—and some not-so-great stories and essays—while bearing a more troubled soul than Ueland seems to have known; and it’s hard, complex, intellectual work writing prose as superficially simple as Tolstoy’s.",
+        "Her hero is Tolstoy, and she quotes throughout the book his praise for clean-living and peasant simplicities. (She was also a feminist and the daughter of a suffragette, so her several sallies throughout this book against tyrannical husbands who prevent their wives from writing clash with the Tolstoy-worship, given that he nearly enslaved his own wife to his literary, spiritual, and sexual will—but perhaps these sordid details weren’t well-known at the time.) Though Tolstoy was an aristocrat, and Ueland herself apparently well-off, her favorite students are the poor ones, because they write without affectation about their humble lives. Her other hero besides Tolstoy is Blake, who advocated the divine energy that inspires all true art. He too lived simply and produced much poetry and art that at least seems simple. She quotes his aphorism several times: “Sooner strangle an infant in its cradle than nurse unacted desires.” (Which invites the objection: what if one desires to strangle an infant in its cradle? I despise top-down exercises of authority more than anyone, so it’s a shame that anarchist and libertarian ideals are often expressed so stupidly.) ",
+        "This is a dangerously servile way to think about other people, and a fatally arrogant way to think about oneself. Whereas to think both of one’s own writing and the writing of others as an art rather than an expression of self is much more usefully humbling, even as it is a legitimate goad to ambition. Tolstoy managed to write great novels—and some not-so-great stories and essays—while bearing a more troubled soul than Ueland seems to have known; and it’s hard, complex, intellectual work writing prose as superficially simple as Tolstoy’s."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "A Spy Among Friends",
+      "subtitle": "A Book about Art, Independence, and Spirit",
+      "author": "Ben Macintyre",
+      "date": "2 feb 2021",
+      "img": "https://weddingcelebrantqueenstown.com/wp-content/uploads/2014/04/Reading.jpg",
+      "Description": [
+        "Due to the author’s local fame, I used to see this book in a store that sold pricey gifts and knick-knacks to upper-middle-class women. It looked a little more intellectual than the other merchandise—I myself only ever bought expensive chocolate, scented candles, and the occasional stuffed animal there—so when I found it recently in a Little Free Library I decided to investigate further. After reading the book, I am faced with the old dilemma: should the critic write a bad review? Isn’t it better to celebrate what it is good, true, and beautiful than to whine about what’s bad, false, and ugly? The question answers itself, and with another: how will we know what is bad, false, and ugly if no one bothers to point it out? The shade of the intrepid Ms. Ueland will have to forgive me, but I am about to point it out. She has for her consolation her book’s still being in print almost three decades after her own death.",
+        "I cannot imagine a more discouraging text than this 1938 tract “about Art, Independence and Spirit” for those who want to write but aren’t sure how to start. For Ueland, you must first become a great and simple soul before you put pen to paper.",
+        "Her hero is Tolstoy, and she quotes throughout the book his praise for clean-living and peasant simplicities. (She was also a feminist and the daughter of a suffragette, so her several sallies throughout this book against tyrannical husbands who prevent their wives from writing clash with the Tolstoy-worship, given that he nearly enslaved his own wife to his literary, spiritual, and sexual will—but perhaps these sordid details weren’t well-known at the time.) Though Tolstoy was an aristocrat, and Ueland herself apparently well-off, her favorite students are the poor ones, because they write without affectation about their humble lives. Her other hero besides Tolstoy is Blake, who advocated the divine energy that inspires all true art. He too lived simply and produced much poetry and art that at least seems simple. She quotes his aphorism several times: “Sooner strangle an infant in its cradle than nurse unacted desires.” (Which invites the objection: what if one desires to strangle an infant in its cradle? I despise top-down exercises of authority more than anyone, so it’s a shame that anarchist and libertarian ideals are often expressed so stupidly.) ",
+        "This is a dangerously servile way to think about other people, and a fatally arrogant way to think about oneself. Whereas to think both of one’s own writing and the writing of others as an art rather than an expression of self is much more usefully humbling, even as it is a legitimate goad to ambition. Tolstoy managed to write great novels—and some not-so-great stories and essays—while bearing a more troubled soul than Ueland seems to have known; and it’s hard, complex, intellectual work writing prose as superficially simple as Tolstoy’s."
+      ]
+    }
+  ],
+  "feedback": [
+    {
+      "id": 1,
+      "name": "vandana",
+      "email": "vandana@gmail.com",
+      "feedback": "good"
+    },
+    {
+      "name": "anju",
+      "email": "anju@gmail.com",
+      "feedback": "nice",
+      "id": 2
+    },
+    {
+      "name": "siddarth",
+      "email": "siddarth@gmail.com",
+      "feedback": "good..",
+      "id": 3
+    },
+    {
+      "name": "pavana",
+      "email": "pavana@gmail.com",
+      "feedback": "niceee",
+      "id": 4
+    },
+    {
+      "name": "qw",
+      "email": "qwe",
+      "feedback": "wetu",
+      "id": 5
+    },
+    {
+      "name": "Wid",
+      "email": "wid@wid.com",
+      "feedback": "weifkf",
+      "id": 6
+    }
+  ]
+}

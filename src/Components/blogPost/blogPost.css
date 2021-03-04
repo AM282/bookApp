@@ -1,0 +1,18 @@
+#blog_image{
+    width: 100%;
+    height: auto !important;
+    max-height: 70vh;
+}
+#profile_img
+{
+    width: 60px !important;
+    height: 60px !important;
+    border-radius: 50%;
+}
+p{
+    font-family: 'Truculenta', sans-serif !important;
+}
+.blog-content p
+{
+    font-size: 22px;
+}

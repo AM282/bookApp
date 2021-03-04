@@ -1,0 +1,25 @@
+.navHeader
+{
+  padding: 0;
+  margin: 0;
+  height: 100vh !important;
+  width: 100%;
+  color:white;
+  background-image: url("https://www.detroitlabs.com/wp-content/uploads/2018/02/alfons-morales-YLSwjSy7stw-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.landing-header-content
+{
+  background-color: rgba(0,0,0,0.6);
+  padding: 50px;
+
+}
+.aboutus-landing
+{
+  padding: 50px !important;
+}
+.aboutus-landing img
+{
+width: 100%;
+}

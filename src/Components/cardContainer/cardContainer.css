@@ -1,0 +1,12 @@
+#author
+{
+    display: none;
+}
+#favourite{
+    display: none;
+}
+.card-active
+{
+    border-bottom: 5px solid blue;
+    color: blue;
+}

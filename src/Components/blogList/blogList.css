@@ -1,0 +1,15 @@
+#blog_image{
+    width: 100%;
+    height: auto !important;
+    max-height: 70vh;
+}
+p{
+    font-family: 'Truculenta', sans-serif !important;
+} 
+#header_content
+{
+    top:30%;
+    left: 35%;
+    padding:20px;
+    background-color: rgba(0,0,0,0.6);
+}
